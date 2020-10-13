@@ -18,7 +18,7 @@ https://drive.google.com/file/d/11fDNyAmj2zRqzddM2fHlUWQJWdoG6hqJ/view?usp=shari
 
 # GitHub repository
 
-You can find the repository here: https://github.com/evkonradi/e-commerce.
+You can find the repository here: 
 
 # Page preview
 
